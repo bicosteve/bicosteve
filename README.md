@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hello, I'm Bico
 
-<!--
-**bicosteve/bicosteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I am a QA Engineer with a strong passion for software development and a diverse skill set that spans both quality assurance and engineering. Currently, I am transitioning into a Software Engineering role, where I aim to leverage my expertise in Python, Go (Golang), and various technologies to build efficient, scalable, and reliable software solutions.
 
-Here are some ideas to get you started:
+## 🚀 My Vision
+I believe that quality must be embedded in every aspect of software development. My goal is to create innovative applications that enhance user experiences while ensuring robust performance and reliability. I am committed to continuous learning and improvement, aiming to contribute to projects that make a meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+**Programming Languages**: 
+  - Python
+  - Golang
+  - TypeScript
+
+**Testing Frameworks**: 
+  - RestAssured
+  - PlaywrightJS
+
+**Databases**: 
+  - SQL (MySQL, PostgreSQL)
+  - NoSQL (MongoDB)
+
+**Message Brokers**: 
+  - Kafka
+  - RabbitMQ
+
+**Containerization**: 
+  - Docker
+
+**Machine Learning**: 
+  -  Scikit-learn
+  -  TensorFlow
+
+**Cloud Computing**: 
+  -  Elementary GCP
+
+## 🛠️ Projects
+### [Calory Tracker](link-to-your-project)
+- **Description**: A brief overview of what this project is about.
+- **Technologies Used**: Python, Docker, SQL.
+- **Highlights**: Key features, challenges faced, and what you learned.
+
+### [Booking System](link-to-your-project)
+- **Description**: A brief overview of what this project is about.
+- **Technologies Used**: Go, Kafka, REST APIs.
+- **Highlights**: Key features, challenges faced, and what you learned.
+
+### [Flood Prediction Model](link-to-your-project)
+- **Description**: A brief overview of what this project is about.
+- **Technologies Used**: Playwright, NoSQL, RabbitMQ.
+- **Highlights**: Key features, challenges faced, and what you learned.
+
+### [Forum](link-to-your-project)
+- **Description**: A brief overview of what this project is about.
+- **Technologies Used**: Playwright, NoSQL, RabbitMQ.
+- **Highlights**: Key features, challenges faced, and what you learned.
+
+## 📫 Get in Touch
+- **Email**: bicosteve4@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/bico-steve/
