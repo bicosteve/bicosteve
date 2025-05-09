@@ -36,8 +36,8 @@ Quality must be embedded in every aspect of software development. My goal is to 
 
 ## 🛠️ Projects
 ### [Calory Tracker](https://github.com/bicosteve/callory-tracker)
-- **Description**: T
-  - he calorie tracker assists user to track their food intake per day and give the total calories consumed for the day.
+- **Description**: 
+  - The calorie tracker assists user to track their food intake per day and give the total calories consumed for the day.
 - **Technologies Used**:
   - Golang,
   - MySQL.
