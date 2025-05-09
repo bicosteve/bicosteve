@@ -36,10 +36,13 @@ Quality must be embedded in every aspect of software development. My goal is to 
 
 ## 🛠️ Projects
 ### [Calory Tracker](https://github.com/bicosteve/callory-tracker)
-- **Description**: The calorie tracker assists user to track their food intake per day and give the total calories consumed for the day.
-- **Technologies Used**: Golang, MySQL.
+- **Description**: T
+  - he calorie tracker assists user to track their food intake per day and give the total calories consumed for the day.
+- **Technologies Used**:
+  - Golang,
+  - MySQL.
 - **Highlights**:
-   #### Key features
+  #### Key features
     - are authentication, data validation, storage, and retrieval.
   #### Challenges faced,
     - creating middlewares.
@@ -53,13 +56,13 @@ Quality must be embedded in every aspect of software development. My goal is to 
     - models creation
 
 ### [Booking System](https://github.com/bicosteve/booking-system)
-- **Description**:
+  - **Description**:
     - This is a booking system for a hotel where users register and perform other CRUD operations.
     - Users are categorised into admins and ordinary users, with admin users having more privileges than ordinary users.
     - It contains Stripe integration, where users can make payments and confirm their payments.
     - Users can also receive texts and emails when they sign up and when they make bookings.
     - It also contains a  password reset feature.
-- **Technologies Used**:
+ - **Technologies Used**:
   - Golang.
   - Kafka.
   - SMS & email integration.
@@ -83,24 +86,24 @@ Quality must be embedded in every aspect of software development. My goal is to 
     - unit testing
 
 ### [Flood Prediction Model](https://github.com/bicosteve/flashfloodmodel)
-- **Description**:
-  - This is a trained model that can predict the occurrence of flash flood.
-  - It sits behing an flask application which validates the incoming data, cleans it then send it to the trained models.
-  - The three models make their predictions, then the outcome is stored in a table where it is retrieved and displayed on the UI.
-- **Technologies Used**:
-  - Python
-  - MySQL
-  - TensorFlow,
-  - ScikitLearn
-  - Pandas
-  - Numpy
+  - **Description**:
+    - This is a trained model that can predict the occurrence of flash flood.
+    - It sits behing an flask application which validates the incoming data, cleans it then send it to the trained models.
+    - The three models make their predictions, then the outcome is stored in a table where it is retrieved and displayed on the UI.
+  - **Technologies Used**:
+    - Python
+    - MySQL
+    - TensorFlow,
+    - ScikitLearn
+    - Pandas
+    - Numpy
 
-### [Forum](https://github.com/bicosteve/Forum)
-- **Description**:
-  - This is a forum-like application where users can create posts, make comments and edit posts.
-- **Technologies Used**:
-  - PHP,
-  - MySQL
+ ### [Forum](https://github.com/bicosteve/Forum)
+  - **Description**:
+    - This is a forum-like application where users can create posts, make comments and edit posts.
+    - **Technologies Used**:
+    - PHP,
+    - MySQL
   
 ## 📫 Get in Touch
 - **Email**: bicosteve4@gmail.com
