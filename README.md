@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Bico
 
 ## 🌟 About Me
-I am a QA Engineer with a strong passion for software development and a diverse skill set that spans both quality assurance and engineering. Currently, I am transitioning into a Software Engineering role, where I aim to leverage my expertise in Python, Go (Golang), and various technologies to build efficient, scalable, and reliable software solutions.
+I am a software developer with a strong passion for software development and a diverse skill set that spans quality assurance and engineering. I am transitioning into a Software Engineering role, where I aim to leverage my expertise in Python, Go (Golang), and various technologies to build efficient, scalable, and reliable software solutions.
 
 ## 🚀 My Vision
-I believe that quality must be embedded in every aspect of software development. My goal is to create innovative applications that enhance user experiences while ensuring robust performance and reliability. I am committed to continuous learning and improvement, aiming to contribute to projects that make a meaningful impact.
+Quality must be embedded in every aspect of software development. My goal is to create innovative applications that enhance user experiences while ensuring robust performance and reliability. I am committed to continuous learning and improvement, aiming to contribute to projects that make a meaningful impact.
 
 ## 💻 Skills
 **Programming Languages**: 
