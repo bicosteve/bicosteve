@@ -60,12 +60,14 @@ I am a software developer with a strong passion for software development and a d
   - It contains Stripe integration, where users can make payments and confirm their payments.
   - Users can also receive texts and emails when they sign up and when they make bookings.
   - It also contains a  password reset feature.
+    
 **Technologies Used**:
   - Golang.
   - Kafka.
   - SMS & email integration.
   - Stripe Integration
   - Redis.
+
 **Highlights**:
   #### Key features
     - Authentication, authorisation & session management
