@@ -72,10 +72,9 @@ I am a software developer with a strong passion for software development and a d
     - SMS, Email & Payment integration.
     - Message broker.
     - Repos, services, and controllers design pattern.
-    - 
   #### Challenges faced
     - payment integration
-    - topic publishing on Kafka
+    - message broker (Kafka)
     - goroutines for more than one consumer for different topics
     - unit testing
   #### Lessons learned.
