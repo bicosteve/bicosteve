@@ -3,11 +3,8 @@
 ## 🌟 About Me
 I am a software developer with a strong passion for software development and a diverse skill set that spans quality assurance and engineering. I am transitioning into a Software Engineering role, where I aim to leverage my expertise in Python, Go (Golang), and various technologies to build efficient, scalable, and reliable software solutions.
 
-## 🚀 My Vision
-Quality must be embedded in every aspect of software development. My goal is to create innovative applications that enhance user experiences while ensuring robust performance and reliability. I am committed to continuous learning and improvement, aiming to contribute to projects that make a meaningful impact.
-
 ## 💻 Skills
-**Programming Languages**: 
+**Languages**: 
   - Python
   - Golang
   - TypeScript
@@ -41,6 +38,7 @@ Quality must be embedded in every aspect of software development. My goal is to 
 - **Technologies Used**:
   - Golang,
   - MySQL.
+    
 - **Highlights**:
   #### Key features
     - are authentication, data validation, storage, and retrieval.
