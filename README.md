@@ -100,10 +100,13 @@ I am a software developer with a strong passion for software development and a d
       
 ### [Forum](https://github.com/bicosteve/Forum)
 **Description**:
-    - This is a forum-like application where users can create posts, make comments and edit posts.
+  - This is a community forum like application where users can create,view, update, delete,and make comments posts.
+
 **Technologies Used**:
-    - PHP,
-    - MySQL
+  - PHP,
+  - MySQL
+
+    
 ## 📫 Get in Touch
 **Email**: bicosteve4@gmail.com
 **LinkedIn**: https://www.linkedin.com/in/bico-steve/
