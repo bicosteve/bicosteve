@@ -6,8 +6,7 @@ I am a software developer with a strong passion for software development and a d
 ## 💻 Skills
 **Languages**: 
   - Python
-  - Golang
-  - TypeScript
+  - Java
 
 **Testing Frameworks**: 
   - RestAssured
@@ -23,13 +22,14 @@ I am a software developer with a strong passion for software development and a d
 
 **Containerization**: 
   - Docker
+  - Kubernetes
 
 **Machine Learning**: 
   -  Scikit-learn
   -  TensorFlow
 
 **Cloud Computing**: 
-  -  Elementary GCP
+  -  AWS
 
 ## 🛠️ Projects
 ### [Calory Tracker](https://github.com/bicosteve/callory-tracker)
