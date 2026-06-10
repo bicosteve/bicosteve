@@ -1,112 +1,53 @@
-# 👋 Hello, I'm Bico
+# Hi, I'm Bico
 
-## 🌟 About Me
-I am a software developer with a strong passion for software development and a diverse skill set that spans quality assurance and engineering. I am transitioning into a Software Engineering role, where I aim to leverage my expertise in Python, Go (Golang), and various technologies to build efficient, scalable, and reliable software solutions.
+**Backend Software Engineer** — iGaming & Fintech
 
-## 💻 Skills
-**Languages**: 
-  - Python
-  - Java
+Java (Spring Boot) · Python(FastApi) · SQL · Kafka · RabbitMQ · Docker · Kubernetes 
+· AWS
 
-**Testing Frameworks**: 
-  - RestAssured
-  - PlaywrightJS
+---
 
-**Databases**: 
-  - SQL (MySQL, PostgreSQL)
-  - NoSQL (MongoDB)
+## About
 
-**Message Brokers**: 
-  - Kafka
-  - RabbitMQ
+I build production-grade backend systems for high-stakes environments where concurrency, latency, and fault tolerance are non-negotiable. My background spans backend development and systems reliability engineering in the iGaming industry, where I have designed microservices, event-driven architectures, and automated testing infrastructure.
 
-**Containerization**: 
-  - Docker
-  - Kubernetes
+I work primarily in **Java (Spring Boot)** and **Python(FastApi)**, with a focus on 
+distributed messaging, REST API design, and cloud-deployed services on AWS. My SDET background means I build systems with testability and resilience by design not as an afterthought.
 
-**Machine Learning**: 
-  -  Scikit-learn
-  -  TensorFlow
+---
 
-**Cloud Computing**: 
-  -  AWS
+## Featured Project
 
-## 🛠️ Projects
-### [Calory Tracker](https://github.com/bicosteve/callory-tracker)
-**Description**: 
-  - The calorie tracker assists user to track their food intake per day and give the total calories consumed for the day.
-**Technologies Used**:
-  - Golang,
-  - MySQL.
-    
-**Highlights**:
-  #### Key features
-    - are authentication, data validation, storage, and retrieval.
-  #### Challenges faced,
-    - creating middlewares.
-    - setting cookies & sessions.
-    - templating.
-    - route grouping.
-  #### Lessons
-    - data normalisation
-    - how to implement struct
-    - pointers
-    - models creation
+### 🎯 [Sportsbook Platform](https://github.com/bicosteve)
+A production-ready sportsbook backend built as three decoupled microservices — `rapid-engine`, `event-consumer`, and `api-gateway` — communicating via RabbitMQ. Includes a real-time result evaluation engine supporting moneyline, handicap, and totals markets, a wallet and transaction system with freebet logic, and Redis-backed caching for low-latency reads.
 
-### [Booking System](https://github.com/bicosteve/booking-system)
-**Description**:
-  - This is a booking system for a hotel where users register and perform other CRUD operations.
-  - Users are categorised into admins and ordinary users, with admin users having more privileges than ordinary users.
-  - It contains Stripe integration, where users can make payments and confirm their payments.
-  - Users can also receive texts and emails when they sign up and when they make bookings.
-  - It also contains a  password reset feature.
-    
-**Technologies Used**:
-  - Golang.
-  - Kafka.
-  - SMS & email integration.
-  - Stripe Integration
-  - Redis.
+**Stack:** Java (Spring Boot) · RabbitMQ · Redis · MySQL · Docker · AWS
 
-**Highlights**:
-  #### Key features
-    - Authentication, authorisation & session management
-    - SMS, Email & Payment integration.
-    - Message broker.
-    - Repos, services, and controllers design pattern.
-  #### Challenges faced
-    - payment integration
-    - message broker (Kafka)
-    - goroutines for more than one consumer for different topics
-    - unit testing
-  #### Lessons learned.
-    - message publishing
-    - redis catching
-    - external integration
-    - unit testing
+---
 
-### [Flood Prediction Model](https://github.com/bicosteve/flashfloodmodel)
-**Description**:
-  - This is a trained model that can predict the occurrence of flash flood.
-  - It sits behing an flask application which validates the incoming data, cleans it then send it to the trained models.
-  - The three models make their predictions, then the outcome is stored in a table where it is retrieved and displayed on the UI.
-**Technologies Used**:
-    - Python
-    - MySQL
-    - TensorFlow,
-    - ScikitLearn
-    - Pandas
-    - Numpy
-      
-### [Forum](https://github.com/bicosteve/Forum)
-**Description**:
-  - This is a community forum like application where users can create,view, update, delete,and make comments posts.
+## Other Projects
 
-**Technologies Used**:
-  - PHP,
-  - MySQL
+- 🏨 **[Booking System](https://github.com/bicosteve/booking-system)** — Hotel reservation service with payment processing and asynchronous booking confirmation. Built with Golang, designed around clean service boundaries and reliable message handling.
 
-    
-## 📫 Get in Touch
-**Email**: bicosteve4@gmail.com
-**LinkedIn**: https://www.linkedin.com/in/bico-steve/
+- 🌊 **[Flood Prediction Model](https://github.com/bicosteve/flashfloodmodel)** — Flask-based ML pipeline for real-time flood risk prediction. Includes a data validation layer and UI delivery, deployed as a containerized service.
+
+- 🔥 **[Calory Tracker](https://github.com/bicosteve/callory-tracker)** — Golang service for tracking daily nutritional intake, featuring user auth and a persistent data layer.
+
+---
+
+## Skills
+
+**Languages:** Java, Golang, Python, SQL  
+**Frameworks:** Spring Boot, Flask  
+**Databases:** MySQL, PostgreSQL, Redis, MongoDB  
+**Messaging:** Kafka, RabbitMQ  
+**Cloud & Infrastructure:** AWS, Docker, Kubernetes  
+**Testing & CI/CD:** Playwright, GitHub Actions
+
+---
+
+## Let's Connect
+
+- 🌐 **LinkedIn:** [bico-steve](https://www.linkedin.com/in/bico-steve/)
+- ✉️ **Email:** bicosteve4@gmail.com
+- 🧑‍💻 **GitHub:** [@bicosteve](https://github.com/bicosteve)
