@@ -26,6 +26,8 @@ A production-ready sportsbook backend built as three decoupled microservices`rap
 ### 🎯 [Job Board API](https://github.com/bicosteve/job-board-api)
 Production-grade hiring platform built with Flask, MySQL, Redis, React, and TypeScript. Features a clean Controller → Service → Repository architecture, JWT auth with email verification, Redis-backed password reset tokens, and a fully typed React frontend. Containerised with Docker Compose, documented with Swagger, and covered with a unittest suite across all three layers.
 
+**Stack:** Python (Flask) · Redis · MySQL · Docker · React
+
 ---
 
 ## Other Projects
