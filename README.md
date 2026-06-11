@@ -18,10 +18,13 @@ distributed messaging, REST API design, and cloud-deployed services on AWS. My S
 
 ## Featured Project
 
-### 🎯 [Sportsbook Platform](https://github.com/bicosteve)
+### 🎯 [Sportsbook Platform](https://github.com/bicosteve/api-gateway)
 A production-ready sportsbook backend built as three decoupled microservices — `rapid-engine`, `event-consumer`, and `api-gateway` — communicating via RabbitMQ. Includes a real-time result evaluation engine supporting moneyline, handicap, and totals markets, a wallet and transaction system with freebet logic, and Redis-backed caching for low-latency reads.
 
 **Stack:** Java (Spring Boot) · RabbitMQ · Redis · MySQL · Docker · AWS
+
+### 🎯 [Job Board API](https://github.com/bicosteve/job-board-api)
+Production-grade hiring platform built with Flask, MySQL, Redis, React, and TypeScript. Features a clean Controller → Service → Repository architecture, JWT auth with email verification, real-time application streams via SSE, Redis-backed password reset tokens, and a fully typed React frontend. Containerised with Docker Compose, documented with Swagger, and covered with a unittest suite across all three layers.
 
 ---
 
