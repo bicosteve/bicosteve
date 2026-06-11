@@ -42,7 +42,7 @@ Production-grade hiring platform built with Flask, MySQL, Redis, React, and Type
 
 ## Skills
 
-**Languages:** Java, Golang, Python, SQL  
+**Languages:** Java, Python, SQL  
 **Frameworks:** Spring Boot, Flask  
 **Databases:** MySQL, PostgreSQL, Redis, MongoDB  
 **Messaging:** Kafka, RabbitMQ  
